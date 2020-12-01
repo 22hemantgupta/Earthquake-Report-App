@@ -8,4 +8,4 @@ In this app I used http connection to the USGS website to take latest earthquake
 
 When you click on some earthquake in the app it redirects you to the official USGS page for the same earthquake you clicked on which contains more inormation abdout earthquake.
 
-![Alt text](github.com/22hemantgupta/Earthquake-Report-App/master/earthimage/Screenshot_2020-12-01-17-10-04-337_com.example.quakereport.jpg?raw=true "Title")
+![Alt text](https://github.com/22hemantgupta/Earthquake-Report-App/blob/master/earthimage/Screenshot_2020-12-01-17-10-04-337_com.example.quakereport.jpg?raw=true)
